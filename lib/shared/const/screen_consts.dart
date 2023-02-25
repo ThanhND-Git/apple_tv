@@ -1,0 +1,3 @@
+class RouteName{
+  RouteName._();
+}
